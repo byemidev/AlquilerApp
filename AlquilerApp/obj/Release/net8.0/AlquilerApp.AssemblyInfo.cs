@@ -11,10 +11,9 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-AlquilerApp-44f53472-81a0-421e-9ffc-337cb9cbc2dc")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlquilerApp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7e424b682a9aef6e239c23aa49de99cec5f5dac")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlquilerApp")]
