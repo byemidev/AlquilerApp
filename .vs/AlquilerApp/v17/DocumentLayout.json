@@ -1,12 +1,224 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\views\\carsdescriptions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\carsdescriptions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\views\\home\\_layoutdatacars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\_layoutdatacars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\views\\carsdescriptions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\carsdescriptions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\controllers\\carsdescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\controllers\\carsdescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\migrations\\20240718153314_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\migrations\\20240718153314_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\models\\carsdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\models\\carsdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\views\\home\\_layoutdatepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\_layoutdatepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\CarsDescriptions\\Details.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\CarsDescriptions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\CarsDescriptions\\Details.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\CarsDescriptions\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:34:52.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\CarsDescriptions\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\CarsDescriptions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\CarsDescriptions\\Index.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\CarsDescriptions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:34:25.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarsDescriptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Controllers\\CarsDescriptionsController.cs",
+              "RelativeDocumentMoniker": "AlquilerApp\\Controllers\\CarsDescriptionsController.cs",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Controllers\\CarsDescriptionsController.cs",
+              "RelativeToolTip": "AlquilerApp\\Controllers\\CarsDescriptionsController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:34:09.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240718153314_m1.cs",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Migrations\\20240718153314_m1.cs",
+              "RelativeDocumentMoniker": "AlquilerApp\\Migrations\\20240718153314_m1.cs",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Migrations\\20240718153314_m1.cs",
+              "RelativeToolTip": "AlquilerApp\\Migrations\\20240718153314_m1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:33:14.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarsDescription.cs",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Models\\CarsDescription.cs",
+              "RelativeDocumentMoniker": "AlquilerApp\\Models\\CarsDescription.cs",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Models\\CarsDescription.cs",
+              "RelativeToolTip": "AlquilerApp\\Models\\CarsDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:22:16.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AlquilerApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AlquilerApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:20:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:19:23.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutDataCars.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\Home\\_LayoutDataCars.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\Home\\_LayoutDataCars.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\Home\\_LayoutDataCars.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\Home\\_LayoutDataCars.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:19:05.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AlquilerApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\appsettings.json",
+              "RelativeToolTip": "AlquilerApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T15:26:22.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Program.cs",
+              "RelativeDocumentMoniker": "AlquilerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Program.cs",
+              "RelativeToolTip": "AlquilerApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:26:03.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Models\\Contexto.cs",
+              "RelativeDocumentMoniker": "AlquilerApp\\Models\\Contexto.cs",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Models\\Contexto.cs",
+              "RelativeToolTip": "AlquilerApp\\Models\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:25:05.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LayoutDatePicker.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\Home\\_LayoutDatePicker.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\Home\\_LayoutDatePicker.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\Views\\Home\\_LayoutDatePicker.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\Home\\_LayoutDatePicker.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:19:07.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
