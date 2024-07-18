@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlquilerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9abb4166e49172703bf3471f2a5582b608310e77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e55a8558dcddb0de2f7f159509e721a44d9bc430")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlquilerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlquilerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
