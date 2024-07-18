@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj",
         "packagesPath": "C:\\Users\\Cursostardes\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\obj\\",
+=======
+    "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj",
+        "projectName": "AlquilerApp",
+        "projectPath": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj",
+        "packagesPath": "C:\\Users\\Cursostardes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\obj\\",
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +73,15 @@
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
+<<<<<<< HEAD
               "version": "[8.0.7, )"
+=======
+<<<<<<< HEAD
+              "version": "[8.0.7, )"
+=======
+              "version": "[8.0.2, )"
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -74,10 +96,13 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
+<<<<<<< HEAD
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.3, )"
+=======
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
             }
           },
           "imports": [

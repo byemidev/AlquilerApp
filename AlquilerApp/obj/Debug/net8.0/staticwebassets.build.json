@@ -1,6 +1,14 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "TAH0q2J7wQo+TPGXVfrNX7zmk3BFFQ/mNF7rBro/SrY=",
+=======
+<<<<<<< HEAD
+  "Hash": "5HiNDnUI5RXG4sikc8s8CbBAr1/ADp345zpBQPw3G38=",
+=======
+  "Hash": "4Vyvy3IKqL0W2YAATaxKExSGjpgyY/2/GDmjSXcR5pw=",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
   "Source": "AlquilerApp",
   "BasePath": "_content/AlquilerApp",
   "Mode": "Default",
@@ -10,17 +18,38 @@
     {
       "Name": "AlquilerApp\\wwwroot",
       "Source": "AlquilerApp",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\css\\site.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -33,6 +62,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\css\\site.css"
     },
     {
@@ -40,6 +73,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\favicon.ico",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -52,6 +97,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\favicon.ico"
     },
     {
@@ -59,6 +108,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\js\\site.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -71,6 +132,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\js\\site.js"
     },
     {
@@ -78,6 +143,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -90,6 +167,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
@@ -97,6 +178,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -109,6 +202,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
@@ -116,6 +213,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -128,6 +237,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
@@ -135,6 +248,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -147,6 +272,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
@@ -154,6 +283,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -166,6 +307,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
@@ -173,6 +318,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -185,6 +342,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
@@ -192,6 +353,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -204,6 +377,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
@@ -211,6 +388,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -223,6 +412,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
@@ -230,6 +423,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -242,6 +447,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
@@ -249,6 +458,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -261,6 +482,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
@@ -268,6 +493,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -280,6 +517,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
@@ -287,6 +528,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -299,6 +552,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
@@ -306,6 +563,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -318,6 +587,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
@@ -325,6 +598,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -337,6 +622,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
@@ -344,6 +633,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -356,6 +657,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
@@ -363,6 +668,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -375,6 +692,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -382,6 +703,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -394,6 +727,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
@@ -401,6 +738,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -413,6 +762,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
@@ -420,6 +773,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -432,6 +797,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
@@ -439,6 +808,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -451,6 +832,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
@@ -458,6 +843,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -470,6 +867,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
@@ -477,6 +878,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -489,6 +902,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
@@ -496,6 +913,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -508,6 +937,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
@@ -515,6 +948,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,6 +972,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -534,6 +983,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -546,6 +1007,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
@@ -553,6 +1018,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -565,6 +1042,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
@@ -572,6 +1053,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -584,6 +1077,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
@@ -591,6 +1088,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -603,6 +1112,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
@@ -610,6 +1123,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -622,6 +1147,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
@@ -629,6 +1158,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -641,6 +1182,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
@@ -648,6 +1193,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -660,6 +1217,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
@@ -667,6 +1228,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -679,6 +1252,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -686,6 +1263,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -698,6 +1287,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
@@ -705,6 +1298,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -717,6 +1322,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
@@ -724,6 +1333,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -736,6 +1357,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
@@ -743,6 +1368,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -755,6 +1392,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
@@ -762,6 +1403,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -774,6 +1427,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
@@ -781,6 +1438,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -793,6 +1462,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
@@ -800,6 +1473,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -812,6 +1497,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
@@ -819,6 +1508,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -831,6 +1532,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
@@ -838,6 +1543,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -850,6 +1567,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
@@ -857,6 +1578,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -869,6 +1602,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
@@ -876,6 +1613,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -888,6 +1637,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
@@ -895,6 +1648,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -907,6 +1672,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
@@ -914,6 +1683,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -926,6 +1707,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
@@ -933,6 +1718,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -945,6 +1742,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
@@ -952,6 +1753,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -964,6 +1777,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
@@ -971,6 +1788,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -983,6 +1812,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
@@ -990,6 +1823,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1002,6 +1847,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
@@ -1009,6 +1858,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1021,6 +1882,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
@@ -1028,6 +1893,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1040,6 +1917,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
@@ -1047,6 +1928,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1059,6 +1952,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
@@ -1066,6 +1963,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1078,6 +1987,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
@@ -1085,6 +1998,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1097,6 +2022,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
@@ -1104,6 +2033,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1116,6 +2057,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
@@ -1123,6 +2068,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1135,6 +2092,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
@@ -1142,6 +2103,18 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1154,6 +2127,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
@@ -1161,6 +2135,25 @@
       "SourceId": "AlquilerApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerApp.styles.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerApp.styles.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "AlquilerApp.styles.css",
       "AssetKind": "All",
@@ -1173,6 +2166,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerApp.styles.css"
     },
     {
@@ -1180,6 +2174,25 @@
       "SourceId": "AlquilerApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerApp.bundle.scp.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerApp.bundle.scp.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "AlquilerApp.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,6 +2205,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerApp.bundle.scp.css"
     },
     {
@@ -1199,6 +2213,44 @@
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\css\\icons8-sedan-100.png",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+      "BasePath": "_content/AlquilerApp",
+      "RelativePath": "css/icons8-sedan-100.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\icons8-sedan-100.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\css\\site.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\css\\site.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1214,10 +2266,24 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\favicon.ico",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\favicon.ico",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\favicon.ico",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1233,10 +2299,24 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\js\\site.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\js\\site.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\js\\site.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1252,10 +2332,24 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1271,10 +2365,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1290,10 +2398,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1309,10 +2431,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1328,10 +2464,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1347,10 +2497,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1366,10 +2530,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1385,10 +2563,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1404,10 +2596,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1423,10 +2629,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1442,10 +2662,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1461,10 +2695,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1480,10 +2728,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1499,10 +2761,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1518,10 +2794,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1537,10 +2827,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1556,10 +2860,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1575,10 +2893,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1594,10 +2926,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1613,10 +2959,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +2992,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1651,10 +3025,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1670,10 +3058,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1689,10 +3091,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1708,10 +3124,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1727,10 +3157,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1746,10 +3190,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1765,10 +3223,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1784,10 +3256,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1803,10 +3289,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1822,10 +3322,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1841,10 +3355,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1860,10 +3388,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1879,10 +3421,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1898,10 +3454,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1917,10 +3487,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1936,10 +3520,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1955,10 +3553,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1974,10 +3586,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1993,10 +3619,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2012,10 +3652,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2031,10 +3685,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2050,10 +3718,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2069,10 +3751,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2088,10 +3784,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2107,10 +3817,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2126,10 +3850,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2145,10 +3883,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2164,10 +3916,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2183,10 +3949,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2202,10 +3982,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2221,10 +4015,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2240,10 +4048,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2259,10 +4081,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2278,10 +4114,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2297,10 +4147,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2316,10 +4180,24 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AlquilerApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Desktop\\Proyecto\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "AlquilerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\wwwroot\\",
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
       "BasePath": "_content/AlquilerApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

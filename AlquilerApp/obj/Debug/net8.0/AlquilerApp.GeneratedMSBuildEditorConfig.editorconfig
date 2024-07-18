@@ -17,12 +17,17 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AlquilerApp
 build_property.RootNamespace = AlquilerApp
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Cursostardes\Desktop\Concesionario\AlquilerApp\AlquilerApp\
+=======
+build_property.ProjectDir = C:\Users\Cursostardes\Desktop\Proyecto\AlquilerApp\AlquilerApp\
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\Cursostardes\Desktop\Concesionario\AlquilerApp\AlquilerApp
 build_property._RazorSourceGeneratorDebug = 
 
@@ -83,5 +88,71 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Cursostardes/Desktop/Concesionario/AlquilerApp/AlquilerApp/Views/Shared/_Layout.cshtml]
+=======
+build_property.MSBuildProjectDirectory = C:\Users\Cursostardes\Desktop\Proyecto\AlquilerApp\AlquilerApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+<<<<<<< HEAD
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Views/Home/Index.cshtml]
+=======
+[C:/Users/Cursostardes/Documents/repos/Tajamar/csharp/AlquilerApp/AlquilerApp/Views/CarsDescriptions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc0Rlc2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Documents/repos/Tajamar/csharp/AlquilerApp/AlquilerApp/Views/CarsDescriptions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc0Rlc2NyaXB0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Documents/repos/Tajamar/csharp/AlquilerApp/AlquilerApp/Views/CarsDescriptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc0Rlc2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Documents/repos/Tajamar/csharp/AlquilerApp/AlquilerApp/Views/Home/Index.cshtml]
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+<<<<<<< HEAD
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Views/Shared/Error.cshtml]
+=======
+[C:/Users/Cursostardes/Documents/repos/Tajamar/csharp/AlquilerApp/AlquilerApp/Views/Home/_LayoutDataCars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTGF5b3V0RGF0YUNhcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Documents/repos/Tajamar/csharp/AlquilerApp/AlquilerApp/Views/Home/_LayoutDatePicker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTGF5b3V0RGF0ZVBpY2tlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Documents/repos/Tajamar/csharp/AlquilerApp/AlquilerApp/Views/Shared/Error.cshtml]
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cursostardes/Desktop/Proyecto/AlquilerApp/AlquilerApp/Views/Shared/_Layout.cshtml]
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9s31hze6gt
