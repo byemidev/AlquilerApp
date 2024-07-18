@@ -20,3 +20,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.container-fluid{
+   background-color: cyan;
+}
+
+.container-fluid .navbar-brand {
+   background-image: src(~/css/icons8-sedan-100.png);
+}
+
