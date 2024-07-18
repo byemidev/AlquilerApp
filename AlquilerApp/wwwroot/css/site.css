@@ -20,6 +20,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+<<<<<<< HEAD
 
 .container-fluid{
    background-color: cyan;
@@ -29,3 +30,5 @@ body {
    background-image: src(~/css/icons8-sedan-100.png);
 }
 
+=======
+>>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
