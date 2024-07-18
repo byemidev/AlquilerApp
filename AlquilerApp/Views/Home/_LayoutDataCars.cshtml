@@ -1,4 +1,7 @@
-﻿
-@*
-    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@using AlquilerApp.Models
+
+<div>
+    @await Html.PartialAsync("Details", new ViewDataDictionary(ViewData) {
+    { "model", new List<CarsDescription>() } // pass an empty list as the model
+    })
+</div>
