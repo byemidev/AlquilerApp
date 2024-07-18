@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -49,6 +50,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\views\\home\\_layoutdatepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\_layoutdatepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\documents\\repos\\tajamar\\csharp\\alquilerapp\\alquilerapp\\alquilerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\alquilerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+>>>>>>> main
     }
   ],
   "DocumentGroupContainers": [
@@ -58,6 +63,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -214,6 +220,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-18T15:19:07.939Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlquilerApp",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj",
+              "RelativeDocumentMoniker": "AlquilerApp\\AlquilerApp.csproj",
+              "ToolTip": "C:\\Users\\Cursostardes\\Documents\\repos\\Tajamar\\csharp\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj*",
+              "RelativeToolTip": "AlquilerApp\\AlquilerApp.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T16:36:54.548Z",
+>>>>>>> main
               "EditorCaption": ""
             }
           ]
