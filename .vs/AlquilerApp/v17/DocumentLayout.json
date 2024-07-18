@@ -3,35 +3,208 @@
   "WorkspaceRootPath": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\views\\home\\carspicker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\carspicker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|c:\\users\\cursostardes\\desktop\\concesionario\\alquilerapp\\alquilerapp\\alquilerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54D18260-F833-4FD1-A9D4-6BED31A7AA6E}|AlquilerApp\\AlquilerApp.csproj|solutionrelative:alquilerapp\\alquilerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "carspicker.css",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Home\\carspicker.css",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\Home\\carspicker.css",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Home\\carspicker.css",
+              "RelativeToolTip": "AlquilerApp\\Views\\Home\\carspicker.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-18T16:20:06.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:54:17.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:53:48.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:44:16.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:41:19.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Home\\Test.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Views\\Home\\Test.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Views\\Home\\Test.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Views\\Home\\Test.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:41:13.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AlquilerApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AlquilerApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:53:21.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AlquilerApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AlquilerApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:53:08.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AlquilerApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AlquilerApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T16:52:26.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlquilerApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj",
+              "RelativeDocumentMoniker": "AlquilerApp\\AlquilerApp.csproj",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\AlquilerApp.csproj",
+              "RelativeToolTip": "AlquilerApp\\AlquilerApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T16:49:26.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AlquilerApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\appsettings.json",
+              "RelativeToolTip": "AlquilerApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T16:35:43.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Program.cs",
               "RelativeDocumentMoniker": "AlquilerApp\\Program.cs",
               "ToolTip": "C:\\Users\\Cursostardes\\Desktop\\Concesionario\\AlquilerApp\\AlquilerApp\\Program.cs",
               "RelativeToolTip": "AlquilerApp\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:16:24.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T16:16:24.625Z"
             }
           ]
         }
