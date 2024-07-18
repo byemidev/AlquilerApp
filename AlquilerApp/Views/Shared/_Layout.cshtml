@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="~/fontawesome.com/icons/car?f=classic&s=solid" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AlquilerApp.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Views/Home/carspicker.css" />
 </head>
 <body>
     <header>
@@ -46,6 +47,6 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    @RenderSection("scripts", required: false)
 </body>
 </html>

@@ -17,6 +17,8 @@
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\AlquilerApp.bundle.scp.css))</OriginalItemSpec>
     </StaticWebAsset>
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\icons8-sedan-100.png))">
       <SourceType>Package</SourceType>
       <SourceId>AlquilerApp</SourceId>
@@ -35,6 +37,7 @@
     </StaticWebAsset>
 =======
 >>>>>>> 608aa9cf351acd6d48b6cde2cdaf47f4cf49b2ca
+>>>>>>> a849c6ae235f3ef6b30acd7de66e5e03e3c6b435
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\site.css))">
       <SourceType>Package</SourceType>
       <SourceId>AlquilerApp</SourceId>
